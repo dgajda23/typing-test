@@ -1,3 +1,7 @@
+# Website
+
+You can access the application on https://typing-test-t61w.onrender.com/.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
